@@ -31,20 +31,7 @@
 
 ## 获取方式
 
-微信扫码获取，备注mj先行版
-
- <img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-plus/main/docs/manager-qrcode.jpeg" width="240" alt="微信二维码"/>
-
-Telegram
-
- <img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-plus/main/docs/telegram-qrcode.png" width="240" alt="Telegram二维码"/>
-
-加入我们即可获得
-
-- midjourney-proxy的最新版本
-- [微信机器人最新版本](https://github.com/litter-coder/wechat-ai)
-- 及时维护，出问题优先修复
-- 您的意见和建议会被我们重点采纳
+直接下载
 
 ## 使用前提
 1. 注册并订阅 MidJourney，创建自己的频道，参考 https://docs.midjourney.com/docs/quick-start
